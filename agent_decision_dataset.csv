@@ -1,0 +1,150 @@
+Query,Type
+How can I cancel my bus ticket?,static
+What is Bookme.pk contact number?,static
+How to use my wallet balance?,static
+How do I create an account on Bookme?,static
+What are Bookme loyalty rewards?,static
+How to redeem a voucher code?,static
+Can I book cricket tickets on Bookme?,static
+Does Bookme have a mobile app?,static
+How do I reset my password?,static
+What payment methods are accepted?,static
+How to check my booking history?,static
+Is there a customer care number?,static
+How can I contact Bookme support?,static
+Can I change my seat after booking?,static
+Does Bookme refund cancelled tickets?,static
+Where can I see my e-tickets?,static
+What is the cancellation policy for flights?,static
+How do I update my profile information?,static
+Can I use Bookme without an account?,static
+Is there a loyalty program for bus tickets?,static
+How do I get a refund in my wallet?,static
+What is the maximum luggage allowed on buses?,static
+Can I pay using JazzCash?,static
+How long does it take to receive refund?,static
+Does Bookme charge any service fee?,static
+How can I delete my Bookme account?,static
+Does Bookme offer discounts on flights?,static
+How to subscribe to Bookme newsletter?,static
+Can I book movie tickets through Bookme?,static
+Is there any referral program?,static
+Does Bookme sell event tickets?,static
+How can I know if my booking is confirmed?,static
+What are the timings for customer support?,static
+How to login if I forgot my password?,static
+Can I pay with EasyPaisa?,static
+Does Bookme offer cashback?,static
+Where is Bookme.pk headquartered?,static
+What is Bookme’s vision?,static
+How to book a hotel on Bookme?,static
+Can I book train tickets on Bookme?,static
+How can I share my booking with someone?,static
+Does Bookme have physical offices?,static
+How to check loyalty tier status?,static
+Does Bookme support PayPal?,static
+Is there any student discount?,static
+How to deactivate notifications?,static
+How to check event schedules?,static
+Can I change email linked to my account?,static
+Does Bookme accept credit cards?,static
+Show me flights from Lahore to Dubai tomorrow,api
+Are there any buses from Islamabad to Multan today?,api
+Find me hotels in Murree for this weekend,api
+Check Karachi to Dubai flights next week,api
+Show bus timings from Lahore to Faisalabad tonight,api
+Find flights from Islamabad to Jeddah next month,api
+Show available hotels in Karachi for tonight,api
+List buses from Lahore to Sialkot tomorrow morning,api
+Search flights from Karachi to Bangkok this week,api
+Show me buses from Faisalabad to Lahore tonight,api
+Find me cheap flights to Dubai from Karachi,api
+List hotels in Naran for upcoming weekend,api
+Check flights from Lahore to Kuala Lumpur this week,api
+Show movie tickets in Lahore today,api
+List events in Karachi this weekend,api
+Check buses from Rawalpindi to Murree today,api
+Find hotels in Islamabad for next week,api
+Show me Lahore to Multan buses tomorrow morning,api
+Check flights from Karachi to Dubai on 25th July,api
+Search hotels in Skardu for next weekend,api
+Find bus from Multan to Faisalabad tonight,api
+Check flights from Islamabad to Riyadh next week,api
+Show hotels in Hunza for August,api
+List buses from Lahore to Islamabad tomorrow night,api
+Search flights from Lahore to Istanbul this month,api
+Find hotels in Muzaffarabad for this week,api
+Show bus from Karachi to Hyderabad today,api
+Check flights from Karachi to Muscat tomorrow,api
+List hotels in Swat for next weekend,api
+Find buses from Islamabad to Peshawar tonight,api
+Check flights from Lahore to Doha next week,api
+Show me hotels in Lahore for tonight,api
+List buses Lahore to Rawalpindi today,api
+Find flights from Islamabad to Dubai this Friday,api
+Search hotels in Karachi for next Friday,api
+Check buses from Faisalabad to Multan tonight,api
+List flights from Karachi to Colombo next week,api
+Find hotels in Gilgit for upcoming weekend,api
+Show buses from Rawalpindi to Lahore tomorrow,api
+Search flights Karachi to Singapore this week,api
+Find hotels in Karachi near airport tonight,api
+Check buses from Lahore to Gujranwala today,api
+Show flights from Islamabad to Bahrain next week,api
+List hotels in Islamabad for today,api
+Find bus Lahore to Bahawalpur tonight,api
+Search flights from Karachi to Doha this week,api
+List hotels in Murree for upcoming Friday,api
+Find buses from Islamabad to Abbottabad today,api
+Show flights from Lahore to Dubai next Monday,api
+Is it possible to book a flight from Lahore to Karachi and then have its refund 2 days later?,static
+I need a flight from Lahore to Karachi and want to know its refund policy for cancellations.,api
+Can I book a bus ticket from Islamabad to Peshawar and get refund if I cancel?,api
+Find me flights from Karachi to Dubai and tell me if they are refundable.,api
+Can I get a refund if I cancel my flight from Lahore to Islamabad?,static
+Show me hotels in Murree this weekend and their cancellation policies.,api
+"I want to book a flight from Karachi to Bangkok, what is the baggage allowance?",api
+Can I reserve a hotel in Naran for next week and cancel later without charges?,api
+Book me a bus from Lahore to Faisalabad and tell me refund policy.,api
+Check flights from Islamabad to Riyadh and let me know if cancellation is free.,api
+Show me Lahore to Multan buses tomorrow morning and their refund policy.,api
+Find me hotels in Karachi tonight with free cancellation.,api
+How can I get a refund for my booked flight ticket from Bookme?,static
+Can I cancel my flight ticket and get a full refund within 24 hours?,static
+I need to book a bus ticket and know refund policy before payment.,api
+Book me a hotel in Islamabad for tomorrow and tell me check-in policy.,api
+Check flights to Dubai from Karachi tomorrow and tell me fare rules.,api
+Can I book a bus seat and later change it to another seat?,static
+What is the refund policy for buses if I cancel 1 hour before departure?,static
+Show flights from Karachi to Doha next week with refund option.,api
+How can I cancel my hotel booking made on Bookme.pk?,static
+Find me cheap flights to Dubai and tell me luggage limit.,api
+Can I change passenger name after booking flight from Bookme?,static
+Book a flight from Islamabad to Dubai and tell me visa requirements.,api
+"I want to book a hotel in Lahore, does it allow early check-in?",api
+Check flights from Lahore to Kuala Lumpur and baggage policy.,api
+Can I cancel my bus ticket online and get refund immediately?,static
+Show me hotels in Skardu with breakfast included and free cancellation.,api
+Find flights from Karachi to Singapore and tell me cancellation charges.,api
+Is it possible to book movie tickets and cancel them later?,static
+Can I book a bus ticket from Multan to Faisalabad for tonight and get refund if not used?,api
+Show me hotels in Hunza for next week with cancellation policy.,api
+Book me flights from Lahore to Dubai for next Monday with refund option.,api
+"I need a hotel in Karachi tonight, can I cancel if plans change?",api
+Can I cancel flight booked from Bookme and get refund in my wallet?,static
+Check buses from Islamabad to Abbottabad today and tell me refund policy.,api
+Book me a flight from Karachi to Muscat tomorrow and tell me hand carry limit.,api
+Can I get cashback if I book flight tickets through Bookme.pk?,static
+Show flights from Lahore to Istanbul next month and refund options.,api
+Can I book an event ticket and cancel later for refund?,static
+Find hotels in Muzaffarabad this week with refund facility.,api
+Check buses from Lahore to Gujranwala today with cancellation terms.,api
+Book a hotel in Murree for upcoming Friday with free cancellation.,api
+Can I change flight date after booking on Bookme.pk?,static
+I need bus tickets Lahore to Rawalpindi today and refund details.,api
+Book me flights from Karachi to Colombo next week and tell me refund policy.,api
+Can I pay for hotel booking via JazzCash and get refund in same account?,static
+Show flights Karachi to Doha this week with cancellation policy.,api
+Can I cancel train tickets booked via Bookme.pk?,static
+Find me hotel in Islamabad today and tell me if free cancellation available.,api
+Can I book a hotel and pay at check-in through Bookme.pk?,static
